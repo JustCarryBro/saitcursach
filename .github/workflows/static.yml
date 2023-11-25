@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EXCELLENT TASTE</title>
+<link rel="icon" href="https://cdn.icon-icons.com/icons2/3274/PNG/512/steak_meat_beefsteak_chop_food_icon_207918.png">
+</head>
+
+<body>
+
+<div id="div1" style="height: 100px; background-color: #151719;
+ border-radius: 0px;	position: fixed;  z-index: 10;object-fit: cover; 
+object-position: bottom; width: 100%; top: 0px;left:0px; "></div>
+
+<div id="div2" style="width: 1500px; height: 120px; background-color: #151719;
+ border-radius: 0px;	position: absolute;top: 845px;left:0px; "></div>
+	
+<nadpis>EXCELLENT<BR>TASTE</nadpis>		
+<contact><a href="#link5"><span>Контакты</span></a></contact>
+<napitok><a href="#link2"><span>Напитки</span></a></napitok>
+<team><a href="#link1"><span>Команда</span></a></team>
+<bron><a href="#link4"><span>Бронь</span></a></bron>
+<men><a href="#link"><span>Меню</span></a></men>
+<div class="change-background"></div>
+
+
+<bluda id="link">Меню</bluda>
+
+<div class="fadein"
+ style = "width: 100%; 
+height: 300px; 
+object-fit: cover; 
+object-position: bottom; ">
+  <img src="https://kartinki.pics/uploads/posts/2021-03/thumbs/1617165993_50-p-restorannie-blyuda-krasivo-52.jpg" >
+  <img src="https://cs12.pikabu.ru/post_img/2022/11/02/3/og_og_1667356707299711300.jpg">
+  <img src="https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663800620_50-mykaleidoscope-ru-p-krasivie-restorannie-blyuda-yeda-vkontakte-55.jpg">
+   <img src="https://www.annarusska.ru/upload/resize_cache/content/38a/1100_733_1619711fa078991f0a23d032687646b21/38ad36459b4dcf251ec0787891e9f1ef.jpg">
+    <img src="http://podacha-blud.com/uploads/posts/2022-12/1670442215_12-podacha-blud-com-p-restorannaya-podacha-olive-foto-12.jpg">
+	
+
+	<div class="element">
+	
+	<H2 align = "center"> ГОРЯЧИЕ МЯСНЫЕ БЛЮДА </H2>
+	<br>Бургер с брискетом и соусом барбекю
+	<br>Говяжьи щёчки с картофельным муссом и грибной икрой
+	<br>Ножка ягнёнка с соусом демиглас и томатной сальсой 
+	<br>Рибай гриль
+	<br>Рибай на кости
+	<br>Бефстроганов с картофельным муссом и жареными вешенками
+	<br>Пельмени из телятины с соусом из томатов и хрена
+	<br>Мраморная телятина с картофельно-трюфельным муссом
+	<br>Филе утки с кремом из зелёных яблок и пряной моркови
+	<br>Вырезка оленины с картофельным драником и моченой клюквой
+	<br>Филе миньон с говяжьей косточкой 
+	<br>Стейк из свинины с перечным соусом и икрой из баклажанов
+	<br>Брискет с соусом из копченой вишни и фаршированными
+	сморчками
+	</div>  
+	
+	<div class = "salat">
+	<H2 align = "center"> САЛАТЫ </H2>
+	<br>Салат с опалённым тунцом, бобами эдамаме и соусом унаги 
+	<br>Салат с вяленой олениной, солёным желтком и голубикой
+	<br>Цезарь с тёплым куриным филе
+	<br>Цезарь с креветками
+	<br>Цезарь с гребешком
+	<br>Тёплый салат с опалённой телятиной и овощами вок
+	<br>Салат греческий с копченым сыром фета 
+<br>Салат с запеченной грушей
+и фермерским козьим сыром
+	<br>Салат с опаленной моцареллой и маринованными
+цветами джонджоли
+<br>Салат с киноа, копченым угрём и жареным авокадо
+<br>Салат с крабом, томатами конфи и копченым
+перепелиным яйцом
+	</div>	
+</div>
+
+<div class = "holod">
+<H2 align = "center"> ХОЛОДНЫЕ ЗАКУСКИ </H2>
+<br>Страчателла с тар-таром из томатов и муссом из базилика
+<br>Буррата с томатами  и конфитюром
+из печеного перца
+<br>Севиче из дорадо с томатным гаспачо 
+<br>Карпаччо из лосося с салатом из авокадо и рукколы
+<br>Карпаччо из гребешка гравлакс
+<br>Тар-тар из тунца с арбузом и авокадо
+ <br>Антипасти
+ <br>Паштет из печени кролика с ягодами и желе из портвейна
+ <br>Тар-тар из говядины
+</div>
+<div class = "sup">
+<H2 align = "center"> СУПЫ </H2>
+ <br>Суп из белых грибов с брускеттой и грибной икрой 
+ <br>Том ям с креветками и японским рисом
+ <br>Сливочный суп с креветками и гребешком 
+ <br>Уха из стерляди 
+ <br>Борщ с говяжьими щёчками и домашним салом
+
+</div>
+
+<div class = "fish">
+<H2 align = "center"> ГОРЯЧИЕ РЫБНЫЕ БЛЮДА </H2>
+<br>Спинка трески с цукини, грейпфрутом и сладким чили
+<br>Дорадо на гриле / на пару
+<br>Котлеты из судака и щуки с картофельным муссом
+ <br>Судак с запеченным картофелем, грибами и козьим сыром
+  <br>Пельмени из щуки с угольными сливками и красной икрой
+  <br>Марокканский осьминог с соусом унаги и запеченным
+картофелем
+<br>Стейк из лосося с запеченными овощами и соусом биск
+<br>Палтус с ризотто из кабачка и муссом марне
+<br>Филе сибаса с овощами вок и шафрановым соусом
+<br>Стерлядь горячего копчения с варениками и драниками
+из кабачка
+</div>
+
+<div class = "cream">
+<H2 align = "center"> Десерт </H2>
+<br>Чизкейк
+<br>Наполеон
+<br>Шоколадный фондан с шафрановым мороженым
+<br>Манговый пирог с лавандовым кремом и семенами чиа
+<br>Панакота со свежими ягодами
+<br>Облепиховый мусс с жареным пеканом и соусом из личи
+<br>Шоколадные кубы с кремом из фундука и ягодами
+<br>Йогуртовый мусс с кокосовой икрой и персиком
+<br>Мороженое домашнее в ассортименте (ванильное, малиновое,
+<br>шафрановое, шоколадное, маракуйя/манго)
+</div>
+ 
+<div class = "cenameat">
+<br>980 ₽
+<br>820 ₽
+<br>1800 ₽
+<br>3500 ₽
+<br>1200 ₽
+<br>850 ₽
+<br>550 ₽
+<br>1950 ₽
+<br>680 ₽
+<br>1450 ₽
+<br>1750 ₽
+<br>650 ₽
+<br>1580 ₽
+</div>
+
+<div class = "cenazacus">
+<br>650 ₽
+<br>850 ₽
+<br>620 ₽
+<br>1100 ₽
+<br>850 ₽
+<br>720 ₽
+<br>1680 ₽
+<br>520 ₽
+<br>850 ₽
+</div>
+
+<div class = "cenasup">
+<br>520 ₽
+<br>550 ₽
+<br>680 ₽
+<br>850 ₽
+<br>380 ₽
+</div>
+
+<div class = "cenasalat">
+<br>520 ₽
+<br>580 ₽
+<br>550 ₽
+<br>750 ₽
+<br>780 ₽
+<br>1320 ₽
+<br>780 ₽
+<br>580 ₽
+<br>1100 ₽
+<br>720 ₽
+<br>650 ₽
+</div>
+
+<div class = "cenafish">
+<br>820 ₽
+<br>980 ₽
+<br>620 ₽
+<br>680 ₽
+<br>450 ₽
+<br>1300 ₽
+<br>850 ₽
+<br>1350 ₽
+<br>1200 ₽
+<br>1980 ₽
+</div>
+
+<div class = "cenadesrt">
+<br>380 ₽
+<br>350 ₽
+<br>380 ₽
+<br>380 ₽
+<br>850 ₽
+<br>320 ₽
+<br>450 ₽
+<br>320 ₽
+<br>200 ₽ </div>
+
+<div id="div2" style="width: 1500px; height: 120px; background-color: #151719;
+ border-radius: 0px;position: absolute;
+	top: 2400px;
+	left:0px;"></div>
+
+
+<comanda id="link1">Работники кухни</comanda> //команда кухни
+
+<div class = "shef"> </div>
+<div class = "su_shef"> </div>
+<div class = "senia"> </div>
+<div class = "fedia"> </div>
+<rep>Обслуживающий персонал</rep>
+
+<div class = "upr"> </div>
+<div class = "offici"> </div>
+
+<div class = "barblock"></div>
+
+<barname id="link2"> БАР </barname>
+
+<div id="bronirovaniefon" style="width: 1500px; height: 400px; background: url(https://i.pinimg.com/originals/43/a5/63/43a56301bbc8bd63578d8bbcbbe00b8f.jpg);
+ border-radius: 0px;position: absolute;	font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	top: 5000px;
+	left:0px;
+border: 1px solid black;	"></div>
+
+<form method="post" name="drop_down_box" size="20" >
+<select name="menu" size="1" style = "position:absolute; left: 500px; top:5090px; width: 203px;height: 50px; ">
+<option value="first">7:00</option>
+<option selected="selected" value="second">7:30</option>
+<option value="third">8:00</option>
+<option value="fourth">8:30</option>
+<option value="fourth">9:00</option>
+<option value="fourth">9:30</option>
+<option value="fourth">10:00</option>
+<option value="fourth">10:30</option>
+<option value="fourth">11:00</option>
+<option value="fourth">11:30</option>
+<option value="fourth">12:00</option>
+<option value="fourth">12:30</option>
+<option value="fourth">13:00</option>
+<option value="fourth">13:30</option>
+<option value="fourth">14:00</option>
+<option value="fourth">14:30</option>
+<option value="fourth">15:00</option>
+<option value="fourth">15:30</option>
+<option value="fourth">16:00</option>
+<option value="fourth">16:30</option>
+<option value="fourth">17:00</option>
+<option value="fourth">17:30</option>
+<option value="fourth">18:00</option>
+<option value="fourth">18:30</option>
+<option value="fourth">19:00</option>
+<option value="fourth">19:30</option>
+<option value="fourth">20:00</option>
+<option value="fourth">20:30</option>
+<option value="fourth">21:00</option>
+<option value="fourth">21:30</option>
+<option value="fourth">22:00</option>
+<option value="fourth">22:30</option>
+<option value="fourth">23:00</option>
+<option value="fourth">23:30</option>
+<option value="fourth">24:00</option>
+</select>
+</form>
+<br>
+ <!-- Кол во людей -->
+<form method="post" name="drop_down_box" size="20" >
+<select name="menu" size="1" style = "position:absolute; left: 500px; top:5150px; width: 203px;height: 50px; ">
+<option value="first">Один человек</option>
+<option selected="selected" value="second">Двое людей</option>
+<option value="third">Трое людей</option>
+<option value="fourth">Четверо людей</option>
+<option value="fourth">Пять людей</option>
+<option value="fourth">Шесть людей</option>
+<option value="fourth">Семь людей</option>
+<option value="fourth">Восемь людей</option>
+
+</select>
+</form>
+
+<input type="date" id="start" name="trip-start" value="2024-01-12" min="2024-01-01"  max="2025-12-31" style ="position:absolute; left: 500px; top:5210px; width: 200px;height: 50px; "></input>
+<input class="favorite styled" type="button" value="ЗАБРОНИРОВАТЬ"></input>
+
+
+
+<bronirovochka id = "link4">Бронирование</bronirovochka>
+
+<contacti id = "link5">Контакты</contacti>
+<div id="div10" style="width: 1500px; height: 300px; background-color: #151719;
+ border-radius: 0px;position: absolute;
+	top: 5600px;
+	left:0px;"></div>
+
+<map><a href="https://www.google.com/maps/place/ул.+Фрунзе,+31,+Оренбург,+Оренбургская+обл.,+460035/@51.7921403,55.0891345,17z/data=!3m1!4b1!4m6!3m5!1s0x417bf12fdd8ba09f:0x9889b10177db097f!8m2!3d51.792137!4d55.0917148!16s%2Fg%2F11cphbtvr6?entry=ttu" target="_blank" class="primary-button _28px-margin w-button">
+Адресс <br>
+улица Фрунзе<br>
+31<br>
+КАРТА
+</a></map>
+<chas>Часы работы &#8986; <br>
+Понедельник - Четверг<br>
+7:00 - 20:00 ‍<br>
+Пятница - Суббота<br>
+7:00 - 24:00</chas>
+<sviaz>Контакты &#128222; <br>
++777-777-777<br>
+inforestoraneasy@mail.ru
+</sviaz>
+
+
+
+
+
+
+</body>
+</html>
+<style>
+body{
+background-color: white;
+}
+sviaz{
+position:absolute;
+	top: 5650px;
+	left:850px;
+	font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	color: white; 
+
+}
+chas{
+position:absolute;
+	top: 5650px;
+	left:450px;
+	font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	color: white; 
+}
+map{position:absolute;
+	top: 5650px;
+	left:100px;
+	font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	}
+
+
+
+bronirovochka{
+position:absolute;
+	top: 4900px;
+	left:500px;
+	font-family:Apple Chancery, cursive;
+	font-size: 30px;
+}
+
+contacti
+{
+position:absolute;
+	top: 5500px;
+	left:550px;
+	font-family:Apple Chancery, cursive;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+.styled {
+position:absolute;
+	top: 5270px;
+	left:510px;
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  background-color: rgb(48,213,200);
+
+}
+
+
+
+.styled:active {
+  box-shadow:
+    inset -2px -2px 3px rgb(0,255,127),
+    inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+	
+}
+
+
+
+
+
+
+
+
+.barblock{
+position:absolute;
+	border: 2px solid black;
+	border-radius: 15px;
+	top: 3800px;
+	left:0px;
+	width: 100%;
+	max-width: 1280px;
+	height: 1000px;
+	background-image: url("https://sovcominvest.ru/uploads/photo/25688/image/767b1a9643bff47ff0fe0d47db9c1720.jpg");	
+}
+
+barname {
+position: absolute;
+top:3750px;
+left:550px;
+	font-family:Apple Chancery, cursive;
+	font-size: 30px;
+}
+
+
+
+.offici{
+position:absolute;
+	border: 2px solid black;
+	border-radius: 15px;
+	top: 3100px;
+	left: 350px;
+	width:100%;
+	max-width: 1000px;
+	height: 500px;
+	background-image: url("https://sun9-20.userapi.com/impg/8rVHyGrQ4K-jMvt9AKDXDfscbVo1_pxmjZ8yug/fx5TmSjxTvY.jpg?size=1000x563&quality=96&sign=dd1f427870775fd5257fb27055685047&c_uniq_tag=8JiI2T-DtQ8_UUEDuyfDuDMQWRBgIA3Lwr9EGu1KYyI&type=album");	
+}
+
+
+
+.upr{
+position:absolute;
+	border: 2px solid black;
+	border-radius: 15px;
+	top: 3100px;
+	left: 5px;
+	width: 300px;
+	height: 400px;
+	background-image: url("https://sun9-34.userapi.com/impf/-czW17wtM4eGIz5Rb-9Vr1m1qWsKkXhlIlQaog/pbEh5iCK8c4.jpg?size=320x480&quality=96&sign=28e9d27444b3389ecddb7614eb345bc5&c_uniq_tag=WqV3-TiwJPuKaNFswFLBWOkN-49q4NmU6eXraaOv-3s&type=album");	
+}
+
+rep{
+	position: absolute;
+	top: 3000px;
+	left: 425px;
+	font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	}
+
+
+
+.fedia{	
+position:absolute;
+	border: 2px solid black;
+	border-radius: 15px;
+	top: 2700px;
+	left:900px;
+	width: 220px;
+	height: 200px;
+	background-image: url("https://mp3-ogg.site/uploads/posts/2021-03/medium/1615645369_na-etoi-kukhne-rabotaet-odin-povar.jpg");	
+
+}
+.senia {
+	position:absolute;
+	border: 2px solid black;
+	border-radius: 15px;
+	top: 2700px;
+	left:600px;
+	width: 220px;
+	height: 200px;
+	background-image: url("https://static.tvmaze.com/uploads/images/medium_portrait/269/673645.jpg");	
+}
+
+.su_shef{
+position:absolute;
+border: 2px solid black;
+border-radius: 15px;
+top: 2700px;
+left:320px;
+width: 220px;
+height: 200px;
+background-image: url("https://avatars.dzeninfra.ru/get-zen-logos/1670662/pub_607ab082a62c57350e4c791a_607abb0cefdbbb14a282bdb3/xxh");	
+}
+
+.shef{border: 2px solid black;
+	border-radius: 15px;
+    position:absolute;
+	top: 2700px;
+	left:10px;
+	width: 220px;
+	height: 200px;
+	background-image: url("https://sun9-14.userapi.com/impf/c637418/v637418321/38fb/nV807LwXer4.jpg?size=320x213&quality=96&crop=78,0,844,562&sign=c7dfd5adf3ca39a814b8dffe62e01816&c_uniq_tag=gfT9C-PfZEvmWBBo49ZqPWswQMGvU8XdybGgEgAIIDM&type=album");	
+	}
+comanda{
+    position: absolute;
+    top: 2550px;
+    left: 450px;
+    font-family:Apple Chancery, cursive;
+	 font-size: 30px;
+	}
+
+.cenadesrt{
+	position:absolute;
+	top: 1730px;
+	left:1165px;
+	font-family:Apple Chancery, cursive;
+}
+
+.cenafish{
+	position:absolute;
+	top: 2050px;
+	left:600px;
+	font-family:Apple Chancery, cursive;
+}
+.cenasalat{
+    position:absolute;
+	top: 1645px;
+	left:610px;
+	font-family:Apple Chancery, cursive;
+}
+
+.cenasup{
+    position:absolute;
+	top: 1465px;
+	left: 1120px;
+font-family:Apple Chancery, cursive;
+
+}
+.cenazacus{
+    position:absolute;
+	top: 1140px;
+	left:1155px;
+font-family:Apple Chancery, cursive;
+
+}
+	
+
+.cenameat{
+    position:absolute;
+	top: 1180px;
+	left:600px;
+font-family:Apple Chancery, cursive;
+
+}
+
+
+
+.cream{border: 2px solid black;
+	border-radius: 15px;
+    position:relative;
+	top: 425px;
+	left:670px;
+	width: 540px;
+	height: 340px;
+	font-family:Apple Chancery, cursive;
+	 background-image: url("https://s.parapolitika.gr/images/640x360/files/migration/images/2017-07/7xv1n3dornchxhtvt6pm.jpg");	
+	
+		}
+.fish{
+	border: 2px solid black;
+	border-radius: 15px;
+    position:relative;
+	top: 1090px;
+	left:30px;
+	width: 630px;
+	height: 340px;
+	font-family:Apple Chancery, cursive;
+	background-image: url("https://perekysoff.ru/wp-content/uploads/2023/06/stejk-iz-semgi.jpg");	
+}
+.sup{
+	border: 2px solid black;
+	border-radius: 15px;
+    position:relative;
+	top:760px;
+	left:670px;
+	width: 500px;
+	height: 250px;
+	font-family:Apple Chancery, cursive;
+	  background-image: url("http://progressivemagazin.rs/online/wp-content/uploads/2013/10/Supa-1.png");	
+}
+.holod{
+	border: 2px solid black;
+	border-radius: 15px;
+    position:relative;
+	top: 755px;
+	left:670px;
+	width: 540px;
+	height: 320px;
+	font-family:Apple Chancery, cursive;
+	background-image: url(https://superimageconverter.com/output/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-11-24_004532994.png);
+}
+
+
+.salat{border: 2px solid black;
+	border-radius: 15px;
+    position:relative;
+	top: 1540px;
+	left: 30px;
+	width: 630px;
+	height: 390px;
+	font-family:Apple Chancery, cursive;
+	 background-image: url("https://sun9-10.userapi.com/impg/R5oW3N7LhWslrzwotIKCjOpM3a48jjl66Ydtaw/FstYRRkxGrE.jpg?size=604x402&quality=96&sign=1dd0588f6b9f920f4a62893ce385ceaf&type=album");	
+		}
+
+.element {
+	border-radius: 15px;
+    border: 2px solid black;
+    position:absolute;
+	top: 1100px;
+	left:30px;
+	width: 100%;
+	max-width:630px;
+	height: 430px;
+	font-family:Apple Chancery, cursive;	
+	  background-image: url("https://cuciniamo.eu/wp/wp-content/uploads/2022/04/BBq_Carne.jpg");	
+		}
+ 
+   
+   
+  
+@keyframes fade {
+  0% { opacity: 0; }
+  11.11% { opacity: 1; }
+  33.33% { opacity: 1; }
+  44.44% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+.fadein { position:relative; width:70%;}
+.fadein img { position:absolute; width:1400px; left:-10px; right:0; opacity:0; animation-name: fade; animation-duration: 9s; animation-iteration-count: infinite; }
+.fadein img:nth-child(1) { animation-delay: 0s; }
+.fadein img:nth-child(2) { animation-delay: 3s; }
+.fadein img:nth-child(3) { animation-delay: 6s; }
+
+img { 
+  position: relative ; /* Задаём абсолютное позиционирование */
+	top:92px;
+
+	width: 1400px;
+	height: 746px;
+	}
+
+
+bluda{
+    position: absolute;
+    top: 1000px;
+    left: 550px;
+    font-family:Apple Chancery, cursive;
+	 font-size: 30px;
+	}
+
+
+
+bron{
+	position: fixed;
+    top: 30px;
+    left: 900px;
+    font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	z-index: 10;
+}
+team{
+    position: fixed;
+    top: 30px;
+    left: 710px;
+    font-family:Apple Chancery, cursive;
+	 font-size: 30px;
+	 z-index: 10;
+	}
+men{
+    position: fixed;
+    top: 30px;
+    left:350px;
+    font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	z-index: 10;
+	}
+contact {
+    position: fixed;
+    top: 30px;
+    left: 1050px;
+    font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	z-index: 10;
+	color: #000000; 
+		text-decoration: none;
+	}
+
+napitok{
+    position: fixed;
+    top: 30px;
+    left: 530px;
+    font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	z-index: 10;
+	color: white;  
+	text-decoration: none;
+}
+a
+{
+	text-decoration: none;
+	color: white; 
+
+}
+nadpis {
+
+	text-decoration: none;
+	color: white; 
+    position: fixed;
+    top: 10px;
+    left: 90px;
+    font-family:Apple Chancery, cursive;
+	font-size: 30px;
+	z-index: 10;
+	
+}
+
+
+
+
+
+</style>
